@@ -1,0 +1,29 @@
+/* nav css */
+.weblogo {
+    width: 130px;
+
+
+}
+
+.navbar {
+    background: #fff !important;
+}
+
+.sp {
+    font-size: 35px;
+    color: #0e5953;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px;
+    text-decoration: none;
+
+}
+
+.p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 137px;
+    margin-top: -53px;
+    color: #26be81;
+    
+
+}
